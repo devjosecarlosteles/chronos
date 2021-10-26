@@ -1,3 +1,7 @@
-class Chronos {}
+class Chronos {
+  setTime(value, time) {
+    return value
+  }
+}
 
-module.exports = Chronos
+module.exports = new Chronos
