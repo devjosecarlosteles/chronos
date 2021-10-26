@@ -1,0 +1,8 @@
+{
+  "name": "chronosVariable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devjosecarlosteles/chronos.git",
+  "author": "devjosecarlosteles <devjosecarlosteles@gmail.com>",
+  "license": "MIT"
+}
